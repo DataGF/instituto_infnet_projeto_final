@@ -3,5 +3,4 @@
 Projeto final pós graduação Instituto Infnet
 
 Alunos:
-Gilberto Filho
-Wanderson Torres
+Gilberto Filho e Wanderson Torres
